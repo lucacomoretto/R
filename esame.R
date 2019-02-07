@@ -1,4 +1,4 @@
-#esame
+#example1
 esame <- read.csv("C:/Users/luca/Desktop/EITnice/statcomp/esame.txt", sep="")
 summary(esame)
 library(rpart)
